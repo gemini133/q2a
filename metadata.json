@@ -1,0 +1,10 @@
+{
+	"name": "RankGold",
+	"description": "q2a plugin for rankgold",
+	"version": "1.0",
+	"date": "2011-03-27",
+	"author": "RankGold",
+	"author_uri": "http://members.rankgold.com",
+	"license": "GPLv3",
+	"min_q2a": "1.4"
+}
